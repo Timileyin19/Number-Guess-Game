@@ -1,0 +1,14 @@
+#number-submit, #restart-game, #history {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+#history {
+    margin-top: 16px;
+}
+
+.banner {
+    color: #eed23f;
+    font-size: 35px;
+    font-family: sans-serif;
+}
